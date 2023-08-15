@@ -1,0 +1,47 @@
+body {
+  background-color: yellow;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ffcc00;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.main-content {
+  padding: 2rem;
+}
+
+.cat-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem;
+  background-color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #ffcc00;
+  color: white;
+}
